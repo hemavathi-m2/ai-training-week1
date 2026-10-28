@@ -1,3 +1,3 @@
 # AI Training Week 1
 
-This branch introduces my AI training project.
+Learning Python, Pandas, Matplotlib and Git.
